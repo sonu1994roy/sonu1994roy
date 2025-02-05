@@ -22,7 +22,7 @@ always looking to find the best thing of which are helpful in learning full stac
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sonu-94-kumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sonu-94-kumar/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sonu-94-kumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sonu-94-kumar/" height="30" width="40" /></a>
 <a href="https://wa.me/8709796492" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="https://wa.me/8709796492" height="30" width="40" /></a>
 
   
