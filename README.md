@@ -30,7 +30,7 @@ const sonu = {
   experience : "4+ Years",
   expertise  : ["React.js", "Node.js", "MongoDB", "Redux Toolkit", "REST APIs"],
   exploring  : ["AWS", "Redis", "Kafka", "OpenAI GPT API", "Prompt Engineering"],
-  openTo     : "Exciting full-stack / React.js opportunities 🚀",
+  openTo     : "Exciting full-stack  opportunities 🚀",
   contact    : "sannyraj94@gmail.com",
 };
 ```
