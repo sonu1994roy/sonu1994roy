@@ -20,19 +20,74 @@
 
 ## 🧑‍💻 About Me
 
-> *Results-driven Full Stack Developer with **4+ years** of experience building, supporting, and optimizing scalable web applications — from pixel-perfect UIs to robust backend APIs.*
-
-```js
+«Full Stack Engineer with 5+ years of software development experience, building scalable web and mobile applications, robust backend APIs, and AI-powered business solutions. Experienced in the MERN stack, Python/FastAPI, LLM integrations, AI agents, MCP servers, workflow automation, WhatsApp bots, and voice agents — from application development to deployment and production support.»
+```
 const sonu = {
-  role       : "Full Stack Developer ",
+  role       : "Full Stack Engineer | AI Application & Automation Engineer",
   company    : "Teminos Technology Pvt Ltd",
   location   : "Patna, Bihar, India 🇮🇳",
-  experience : "4+ Years",
-  expertise  : ["React.js", "Node.js", "MongoDB", "Redux Toolkit", "REST APIs"],
-  exploring  : ["AWS", "Redis", "Kafka", "OpenAI GPT API", "Prompt Engineering"],
-  openTo     : "Exciting full-stack  opportunities 🚀",
+  experience : "5+ Years",
+
+  expertise  : [
+    "React.js",
+    "Next.js",
+    "React Native",
+    "Node.js",
+    "Express.js",
+    "TypeScript",
+    "MongoDB",
+    "PostgreSQL",
+    "REST APIs"
+  ],
+
+  aiStack    : [
+    "Python",
+    "FastAPI",
+    "OpenAI GPT API",
+    "Google Gemini",
+    "LLM Integration",
+    "AI Agents",
+    "MCP Servers",
+    "Tool Calling",
+    "Prompt Engineering"
+  ],
+
+  automation : [
+    "AI Workflow Automation",
+    "WhatsApp Bots",
+    "Voice Agents",
+    "Business Process Automation",
+    "API & Webhook Integrations",
+    "Payment Workflows"
+  ],
+
+  cloudDevOps: [
+    "AWS,
+    "Linux",
+    "Nginx",
+    "Docker",
+    "PM2",
+    "GitHub Actions",
+    "CI/CD"
+  ],
+
+  databases  : [
+    "MongoDB",
+    "PostgreSQL",
+    "Redis"
+  ],
+
+  openTo     : "Full Stack | AI Application | AI Automation Opportunities 🚀",
   contact    : "sannyraj94@gmail.com",
 };
+
+🚀 Current Focus
+
+- Building AI-powered full-stack applications with React, Next.js, Node.js, Python, and FastAPI.
+- Integrating LLMs, AI agents, and MCP servers into existing applications and business workflows.
+- Developing conversational AI solutions, including WhatsApp automation and voice agents.
+- Automating appointment booking, payments, notifications, and multi-step business processes.
+- Improving deployment, CI/CD, API reliability, and cloud infrastructure.
 ```
 
 ---
