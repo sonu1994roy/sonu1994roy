@@ -19,8 +19,7 @@
 ---
 
 ## 🧑‍💻 About Me
-
-«Full Stack Engineer with 5+ years of software development experience, building scalable web and mobile applications, robust backend APIs, and AI-powered business solutions. Experienced in the MERN stack, Python/FastAPI, LLM integrations, AI agents, MCP servers, workflow automation, WhatsApp bots, and voice agents — from application development to deployment and production support.»
+Full Stack Engineer with 5+ years of software development experience, building scalable web and mobile applications, robust backend APIs, and AI-powered business solutions. Experienced in the MERN stack, Python/FastAPI, LLM integrations, AI agents, MCP servers, workflow automation, WhatsApp bots, and voice agents — from application development to deployment and production support.»
 ```
 const sonu = {
   role       : "Full Stack Engineer | AI Application & Automation Engineer",
